@@ -68,3 +68,10 @@
     left: -15px;
     bottom: -135px;
 }
+
+.copyright {
+    font-family: sans-serif;
+    font-size: 7px;
+    position: relative;
+    left: 510px;
+}
